@@ -1,0 +1,51 @@
+# Geotechnik — Lubeck
+
+> Geotechnical engineering services in Lubeck, Deutschland.
+
+## Services
+- [Anker](https://lubeck.baugrundgutachten1.de/anker/)
+- [Atterberg Grenzen](https://lubeck.baugrundgutachten1.de/atterberg-grenzen/)
+- [Aushub](https://lubeck.baugrundgutachten1.de/aushub/)
+- [Aushub Monitoring](https://lubeck.baugrundgutachten1.de/aushub-monitoring/)
+- [Bodenplatten](https://lubeck.baugrundgutachten1.de/bodenplatten/)
+- [Bodenverbesserung](https://lubeck.baugrundgutachten1.de/bodenverbesserung/)
+- [Boschungsstabilitat](https://lubeck.baugrundgutachten1.de/boschungsstabilitat/)
+- [Cbr Strasse](https://lubeck.baugrundgutachten1.de/cbr-strasse/)
+- [Cpt Versuch](https://lubeck.baugrundgutachten1.de/cpt-versuch/)
+- [Erdbebenisolierung](https://lubeck.baugrundgutachten1.de/erdbebenisolierung/)
+- [Flexibler Belag](https://lubeck.baugrundgutachten1.de/flexibler-belag/)
+- [Fundamente](https://lubeck.baugrundgutachten1.de/fundamente/)
+- [Grundungen](https://lubeck.baugrundgutachten1.de/grundungen/)
+- [Hange](https://lubeck.baugrundgutachten1.de/hange/)
+- [In Situ Durchlassigkeit](https://lubeck.baugrundgutachten1.de/in-situ-durchlassigkeit/)
+- [Injektionen](https://lubeck.baugrundgutachten1.de/injektionen/)
+- [Korngrossenanalyse](https://lubeck.baugrundgutachten1.de/korngrossenanalyse/)
+- [Labor](https://lubeck.baugrundgutachten1.de/labor/)
+- [Labor In Situ](https://lubeck.baugrundgutachten1.de/labor-in-situ/)
+- [Masw](https://lubeck.baugrundgutachten1.de/masw/)
+- [Pfahle](https://lubeck.baugrundgutachten1.de/pfahle/)
+- [Proctor Versuche](https://lubeck.baugrundgutachten1.de/proctor-versuche/)
+- [Ruttelverdichtung](https://lubeck.baugrundgutachten1.de/ruttelverdichtung/)
+- [Sandkegel Dichte](https://lubeck.baugrundgutachten1.de/sandkegel-dichte/)
+- [Schottersaulen](https://lubeck.baugrundgutachten1.de/schottersaulen/)
+- [Schurfgruben](https://lubeck.baugrundgutachten1.de/schurfgruben/)
+- [Seismik](https://lubeck.baugrundgutachten1.de/seismik/)
+- [Seismische Mikrozonierung](https://lubeck.baugrundgutachten1.de/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://lubeck.baugrundgutachten1.de/seismische-refraktion/)
+- [Spt Bohrung](https://lubeck.baugrundgutachten1.de/spt-bohrung/)
+- [Starrer Belag](https://lubeck.baugrundgutachten1.de/starrer-belag/)
+- [Strassenbau](https://lubeck.baugrundgutachten1.de/strassenbau/)
+- [Stutzmauern](https://lubeck.baugrundgutachten1.de/stutzmauern/)
+- [Tiefe Aushube](https://lubeck.baugrundgutachten1.de/tiefe-aushube/)
+- [Triaxialversuch](https://lubeck.baugrundgutachten1.de/triaxialversuch/)
+- [Untersuchung](https://lubeck.baugrundgutachten1.de/untersuchung/)
+- [Verflussigung](https://lubeck.baugrundgutachten1.de/verflussigung/)
+- [Weichbodentunnel](https://lubeck.baugrundgutachten1.de/weichbodentunnel/)
+- [Widerstand](https://lubeck.baugrundgutachten1.de/widerstand/)
+
+## Contact
+- Website: https://lubeck.baugrundgutachten1.de/
+
+## About
+This site provides geotechnical engineering services in Lubeck, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
